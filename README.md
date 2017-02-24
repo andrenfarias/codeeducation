@@ -1,1 +1,2 @@
-# curso-git-ce
+# Sandbox
+Repositório para desenvolvimento de artefatos úteis
