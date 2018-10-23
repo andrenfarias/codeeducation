@@ -1,2 +1,2 @@
 # Sandbox
-Repositório para desenvolvimento de artefatos úteis
+artifacts under development
